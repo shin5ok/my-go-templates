@@ -1,1 +1,1 @@
-with-zerolog/main.go
+./with-zerolog/main.go
